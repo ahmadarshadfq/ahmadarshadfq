@@ -1,6 +1,6 @@
 ![Ahmad's GitHub Banner](https://i.ibb.co/chvfjTqT/Rimberio-1.png)
 
-<p align="center">
+<p align="left">
   <!-- HTML -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/>
 
@@ -26,6 +26,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/>
 
   <!-- Sublime Text -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sublime/sublime-original.svg" alt="sublime" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/en/d/d2/Sublime_Text_3_logo.png" alt="sublime-text" width="40" height="40"/>
 </p>
 
